@@ -1,0 +1,103 @@
+nav#menu ul{
+text-transform: uppercase;
+list-style: none
+;
+position: absolute;
+top: 40px;
+left: 1000px;
+
+}
+nav#menu{
+    display: block;
+    top: 1000%;
+}
+nav#menu li{
+display: inline-block;
+background-color: gray;
+padding: 15px;
+left: 70px;
+}
+body{
+background-color: rgb(137, 137, 203);
+margin: 0px; /*coloca a margem em zero pixels*/
+}
+header{
+background-color: rgb(0, 0, 0);
+padding-top: 30px;
+padding-bottom: 40px;
+position: relative;
+}
+
+
+nav#menu a:link{
+    text-decoration: none;
+ color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+
+ }
+nav#menu a:visited{
+color: rgb(0, 0, 0);
+
+}
+h2{
+    text-transform: uppercase;
+    list-style: none;
+    position:absolute;
+    left: 30%;
+    top:2% ;
+    bottom:60px;
+    color: beige;
+    font-size: 50px;
+
+
+
+}
+nav#menu a:hover{
+    color: aliceblue;
+    transition: all 0.9s ease;
+}
+h3{
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+#img1{
+    width:14% ;
+    left:50px ;
+    top:10px ;
+    margin: 0%;
+}
+#img2{
+    width:25% ;
+    left:50%;
+    top:10px ;
+    margin: 0%;
+}
+#img3{
+    width:20% ;
+    left:100px;
+    top:10px ;
+    margin: 0%;
+}
+#img4{
+    width:25% ;
+    left:-20px ;
+    right:px;
+    top:10% ;
+    margin: 0%;
+}
+h4{
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+h5{
+    font-size: 15px;
+    
+}
+h6{
+font-size: 20px;
+margin: 0px;
+ }
+ 

@@ -17,14 +17,14 @@ Jogos em geral
 ´´´
 
 ###  imagens utilizadas no site
-
-
+´´´
+![capa do jogo de god of war]()
+![capa do jogo de the last of us]()
+´´´
+d
 ## 🛠️ Construído com
 * [html.com]()
 
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
 ## 📌 Versão
 
@@ -32,16 +32,5 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 ## ✒️ Autores
 ´´´´
-esse projeto foi uma criação independente
-´´´´
-
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## Criador
-* Um agradecimento publicamente 🫂;
-´´´
-Feito por [Luan Abreu](https://gist.github.com/luan18alencar) 😊
+[Luan Abreu](https://gist.github.com/luan18alencar) 😊
 ´´´

@@ -9,16 +9,16 @@ Jogos em geral
 ### PRODUTOS
 
 
-JOGO: God Of War Ragnarok. PREÇO:
+JOGO: God Of War Ragnarok. PREÇO: R$ 239.99
 
 
-JOGO: Elden Ring. PREÇO:
+JOGO: Elden Ring. PREÇO: R$ 279,90
 
 
-JOGO: The Last Of Us Part 2. PREÇO:
+JOGO: The Last Of Us Part 2. PREÇO: R$ 209,26
 
 
-JOGO: Spider Man Miles Morales. PREÇO:
+JOGO: Spider Man Miles Morales. PREÇO: R$ 249,90
 
 
 

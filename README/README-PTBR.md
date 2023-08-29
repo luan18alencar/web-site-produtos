@@ -8,21 +8,19 @@ Jogos em geral
 
 ### PRODUTOS
 
-´´´
 
 JOGO:
 
-´´´
-
-JOGO:
-´´´
-
-JOGO:
-´´´
 
 JOGO:
 
-´´´
+
+JOGO:
+
+
+JOGO:
+
+
 
 ## 🛠️ Construído com
 * [html.com]()
@@ -33,6 +31,6 @@ JOGO:
 Nós usamos HTML5 e VSCODE 1.69.1 
 
 ## ✒️ Autores
-´´´´
+´´´
 [Luan Abreu](https://gist.github.com/luan18alencar) 😊
 ´´´

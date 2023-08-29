@@ -9,16 +9,16 @@ Jogos em geral
 ### PRODUTOS
 
 
-JOGO:
+JOGO: God Of War Ragnarok. PREÇO:
 
 
-JOGO:
+JOGO: Elden Ring. PREÇO:
 
 
-JOGO:
+JOGO: The Last Of Us Part 2. PREÇO:
 
 
-JOGO:
+JOGO: Spider Man Miles Morales. PREÇO:
 
 
 
